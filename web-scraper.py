@@ -1,4 +1,4 @@
-# Import libraries
+# Import libraries; make sure to run `pip install BeautifulSoup time shutil` and to run `python -m venv env` before beginning
 import requests
 import urllib.request
 import time
